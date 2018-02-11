@@ -8,7 +8,7 @@
     { "id": 6, "title": "Post 6-FromDB" },
     { "id": 7, "title": "sushma" },
     { "id": 8, "title": "sunil" },
-    { "id": 8, "title": "testing" }
+    { "id": 9, "title": "testing" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
